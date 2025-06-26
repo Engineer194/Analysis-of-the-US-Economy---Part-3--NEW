@@ -1,4 +1,4 @@
-# **Analysis of the US Economy - Part 3**
+# **Analysis of the US Economy - Part 3 - NEW**
 
 ## **Introduction**
 
@@ -15,7 +15,7 @@ Project Title was created by **[Engineer194](https://github.com/Engineer194/Engi
 
 ## **Changelog**
 
-- **December 2024, v.6** Initial release
+- **June 2025, v.7** Initial release
 
 ## **Contact**
 
