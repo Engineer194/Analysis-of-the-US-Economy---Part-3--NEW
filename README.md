@@ -1,4 +1,4 @@
-# **Analysis of the US Economy - Part 3 - NEW**
+# **Analysis of the US Economy - Part 3 - ver. 2**
 
 ## **Introduction**
 
